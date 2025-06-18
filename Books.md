@@ -1,16 +1,7 @@
-layout: Books
-title: Investigacion Social "Madres privadas de la libertad"
-subtitle: "Recursos, bibliografia"
-
 ---
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Libros utilizados </title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<h1> "libro 1" </h1>
-<p>Se utilizo para</p>
+layout: page
+title: Libros elaborados con base al tema de investigación
+subtitle: Madres privadas de la libertad
+permalink: Books
+---
+# Descifra el mundo de la investigación: Guía de herramientas para análisis de datos
