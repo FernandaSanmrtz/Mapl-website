@@ -16,9 +16,10 @@
 </head>
 <body>
   <div class="image-container">
-    <img src="imagen1.jpg" alt="Imagen 1">
-    <img src="imagen2.jpg" alt="Imagen 2">
-    <img src="imagen3.jpg" alt="Imagen 3">
+    <img src="Images/Areszt_śledczy_w_Zabrzu.jpg" alt="Libro 1">
+    <img src="Images/Madres,_La_Bastide-de-Bousignac_(2).jpg " alt="Libro 2">
+    <img src="Images/Museo_de_la_Catedral_de_Quito,_Quito,_Ecuador,_2015-07-22,_DD_94-96_HDR.JPG " alt="Libro 3">
   </div>
 </body>
 </html>
+
