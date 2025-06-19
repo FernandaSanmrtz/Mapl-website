@@ -1,8 +1,24 @@
----
-layout: page
-title: Libros elaborados con base al tema de investigación
-subtitle: Madres privadas de la libertad
-permalink: Books
----
-# Conoce los libros publicados
-<img src="{{ site.baseurl }}/Images/Paris_75005_Quai_de_Montebello_Bouquinistes_20071014.jpg" style="float:left;width:200px;padding-right:20px">
+<!DOCTYPE html>
+<html>
+<head>
+<title>3 Imágenes en Horizontal</title>
+<style>
+.image-container {
+  text-align: center; /* Centra el contenedor */
+}
+
+.image-container img {
+  display: inline-block; /*  Las imágenes se muestran en línea */
+  width: 30%; /* Ajusta el ancho para que quepan 3 */
+  margin: 0 1%; /* Espacio entre imágenes */
+}
+</style>
+</head>
+<body>
+  <div class="image-container">
+    <img src="imagen1.jpg" alt="Imagen 1">
+    <img src="imagen2.jpg" alt="Imagen 2">
+    <img src="imagen3.jpg" alt="Imagen 3">
+  </div>
+</body>
+</html>
