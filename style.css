@@ -1,11 +1,3 @@
-body {
-  font-family: Georgia, serif;
-  background: #fff;
-  color: #000;
-  margin: 0;
-  padding: 0;
-}
-
 .container {
   max-width: 400px;
   margin: 20 auto;
@@ -25,10 +17,6 @@ nav a {
   text-align: center;
   Background-color: rgb(153,102,51)
     
-}
-
-main section {
-  margin-top: 2rem;
 }
 
 footer {
