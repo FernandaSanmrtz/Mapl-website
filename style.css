@@ -17,10 +17,17 @@ header h1 {
 }
 
 nav a {
-  margin-right: 1rem;
-  text-decoration: none;
+ font-family: Georgia;
+  font-size: 15px;
+  margin-right: 40px;
   color: #000;
-  font-weight: bold;
+  font-weight: 100px;
+  border-style: solid;
+  margin: 50px;
+  Padding: 10px;
+  text-align: center;
+  Background-color: rgb(153,102,51)
+    
 }
 
 nav a:hover {
