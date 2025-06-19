@@ -21,7 +21,6 @@
   width: 20%; 
   margin: 0 1%; 
 }
-</style>
 <body>
   <div class="image-container">
     <img src="Images/Areszt_śledczy_w_Zabrzu.jpg" alt="Libro 1">
@@ -31,6 +30,7 @@
     <img src="Images/Museo_de_la_Catedral_de_Quito,_Quito,_Ecuador,_2015-07-22,_DD_94-96_HDR.JPG " alt="Libro 3">
     <p>Titulo del libro, datos generales y breve resumen.</p>
   </div>
+  </style>
 </body>
 </html>
 
