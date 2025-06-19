@@ -9,7 +9,6 @@
 <h1> Libros publicados</h1>
 
   <link rel="stylesheet" href="style.css">
-</head>
   
   <style>
     .contenedor {
