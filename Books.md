@@ -1,9 +1,10 @@
----
+
+
 layout: Libros
 title: Investigacion Social "Madres privadas de la libertad"
 subtitle: "Recursos, bibliografia"
 
----
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -20,7 +21,7 @@ subtitle: "Recursos, bibliografia"
 }
 .image-container img {
   display: inline-block;
-  width: 25%; 
+  width: 20%; 
   margin: 0 1%; 
 }
 </style>
