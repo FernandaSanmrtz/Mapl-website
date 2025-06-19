@@ -21,7 +21,6 @@ subtitle: "Recursos, bibliografia"
   margin: 0 1%; 
 }
 </style>
-
 <body>
   <div class="image-container">
     <img src="Images/Areszt_śledczy_w_Zabrzu.jpg" alt="Libro 1">
