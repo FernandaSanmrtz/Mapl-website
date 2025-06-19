@@ -1,17 +1,14 @@
 
 
-layout: Libros
-title: Investigacion Social "Madres privadas de la libertad"
-subtitle: "Recursos, bibliografia"
 
 
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  ---
+  
 <h1> Libros publicados</h1>
-  ---
+
   <link rel="stylesheet" href="style.css">
 </head>
   
