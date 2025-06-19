@@ -9,12 +9,12 @@ subtitle: "Recursos, bibliografia"
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Libros publicados</title>
+</head>
   <link rel="stylesheet" href="style.css">
 <style>
 .image-container {
   text-align: center; 
 }
-</head>
 .image-container img {
   display: inline-block;
   width: 30%; 
