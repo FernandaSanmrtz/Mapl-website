@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-<title>3 Imágenes en Horizontal</title>
+<title>"Libros Publicados"</title>
 <style>
 .image-container {
   text-align: center; /* Centra el contenedor */
