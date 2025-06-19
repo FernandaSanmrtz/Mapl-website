@@ -5,4 +5,4 @@ subtitle: Madres privadas de la libertad
 permalink: Books
 ---
 # Conoce los libros publicados
-<img src="Paris_75005_Quai_de_Montebello_Bouquinistes_20071014.jpg" style="float:left;width:200px;padding-right:20px">
+<img src="{{ site.baseurl }}/Images/Paris_75005_Quai_de_Montebello_Bouquinistes_20071014.jpg" style="float:left;width:200px;padding-right:20px">
