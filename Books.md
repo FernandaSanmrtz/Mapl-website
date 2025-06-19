@@ -12,16 +12,16 @@ subtitle: "Recursos, bibliografia"
   <link rel="stylesheet" href="style.css">
 <style>
 .image-container {
-  text-align: center; /* Centra el contenedor */
+  text-align: center; 
 }
-
+</head>
 .image-container img {
-  display: inline-block; /*  Las imágenes se muestran en línea */
-  width: 30%; /* Ajusta el ancho para que quepan 3 */
-  margin: 0 1%; /* Espacio entre imágenes */
+  display: inline-block;
+  width: 30%; 
+  margin: 0 1%; 
 }
 </style>
-</head>
+
 <body>
   <div class="image-container">
     <img src="Images/Areszt_śledczy_w_Zabrzu.jpg" alt="Libro 1">
