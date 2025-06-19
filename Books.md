@@ -20,7 +20,7 @@ subtitle: "Recursos, bibliografia"
 }
 .image-container img {
   display: inline-block;
-  width: 30%; 
+  width: 25%; 
   margin: 0 1%; 
 }
 </style>
