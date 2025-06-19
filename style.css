@@ -11,9 +11,6 @@ body {
   margin: 20 auto;
   padding: 2rem;
 }
-header h1 {  
- font-size: 2rem;   margin-bottom: 1rem; 
-}
 }
 
 nav a {
@@ -28,10 +25,6 @@ nav a {
   text-align: center;
   Background-color: rgb(153,102,51)
     
-}
-
-nav a:hover {
-  text-decoration: underline;
 }
 
 main section {
