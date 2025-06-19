@@ -11,17 +11,22 @@
   <link rel="stylesheet" href="style.css">
 </head>
   
-<style>
-.image-container {
-  text-align: center; 
-}
-.image-container img {
-  display: inline-block; 
-  margin: 0 1%; 
-}
-   </style>
+  <style>
+    .contenedor {
+      display: flex;
+      justify-content: space-around; /* o space-between */
+      padding: 20px;
+    }
+
+    .contenedor img {
+      width: 200px; /* o el tamaño que necesites */
+      height: auto;
+    }
+  </style>
+</head>
 <body>
-  <div class="image-container">
+
+  <div class="contenedor">
     <img src="Images/Areszt_śledczy_w_Zabrzu.jpg" alt="Libro 1">
   <p>Titulo del libro, datos generales y breve resumen.</p>
   <img src="Images/Madres,_La_Bastide-de-Bousignac_(2).jpg " alt="Libro 2">
