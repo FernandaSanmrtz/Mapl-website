@@ -14,12 +14,12 @@
   <style>
     .contenedor {
       display: flex;
-      justify-content: space-around; /* o space-between */
+      justify-content: space-around;
       padding: 20px;
     }
 
     .contenedor img {
-      width: 200px; /* o el tamaño que necesites */
+      width: 80px; 
       height: auto;
     }
   </style>
